@@ -1,0 +1,110 @@
+[
+  {
+    "id": "aura-solitaire-ring",
+    "title": "Aura Diamond Solitaire Ring",
+    "category": "Rings",
+    "description": "An elegant manifestation of pure light. This signature solitaire ring features a hand-selected round brilliant diamond mounted on a tapering band of solid metal, finished with delicate double claws that elevate the stone's brilliance.",
+    "images": [
+      "/images/hero-diamond-ring.png",
+      "/images/luxury-hero-ring.png",
+      "/images/wholesale-showcase.png"
+    ],
+    "moq": 3,
+    "alloys": [
+      "14k / 18k Yellow Gold",
+      "White Gold",
+      "Rose Gold",
+      "Platinum (PT950)"
+    ],
+    "gemstones": "1.25 Carat Round Brilliant Diamond (F Color, VVS2 Clarity, GIA Certified)",
+    "packaging": "10-12 Business Days",
+    "price": "FOB $1,450 - $1,750",
+    "active": true
+  },
+  {
+    "id": "lustre-pearl-drop-necklace",
+    "title": "Lustre South Sea Pearl Drop Necklace",
+    "category": "Necklaces",
+    "description": "An exquisite South Sea pearl of flawless lustre, suspended from a delicate chain highlighted by a single pear-cut diamond. Perfect balance between classical opulence and contemporary minimalism.",
+    "images": [
+      "/images/necklaces-category.png"
+    ],
+    "moq": 5,
+    "alloys": [
+      "14k / 18k Yellow Gold, White Gold, Rose Gold, Platinum (PT950)"
+    ],
+    "gemstones": "11mm South Sea Cultured Pearl with 0.15 Carat Pear Diamond Accent",
+    "packaging": "10-12 Business Days",
+    "price": "FOB $890 - $1,100",
+    "active": true
+  },
+  {
+    "id": "celestial-cascade-earrings",
+    "title": "Celestial Diamond Cascade Earrings",
+    "category": "Earrings",
+    "description": "Inspired by stardust, these long cascade earrings flow gracefully with every movement. Features bezel-set brilliant round and marquise diamonds that catch the light from all angles.",
+    "images": [
+      "/images/earrings-category.png",
+      "/images/heritage-earrings.png"
+    ],
+    "moq": 2,
+    "alloys": [
+      "14k / 18k Yellow Gold, White Gold, Rose Gold, Platinum (PT950)"
+    ],
+    "gemstones": "Total 2.45 Carats Mixed Round & Marquise Cut Diamonds (E-F Color, VS1 Clarity)",
+    "packaging": "10-12 Business Days",
+    "price": "FOB $2,800 - $3,200",
+    "active": true
+  },
+  {
+    "id": "eternity-tennis-bracelet",
+    "title": "Eternity Diamond Tennis Bracelet",
+    "category": "Bracelets",
+    "description": "A continuous circle of exceptional brilliance. This classic tennis bracelet showcases individually hand-set ideal cut diamonds, held in a refined four-prong micro-setting that maximizes flexibility and shine.",
+    "images": [
+      "/images/bracelets-category.png"
+    ],
+    "moq": 2,
+    "alloys": [
+      "14k / 18k Yellow Gold, White Gold, Rose Gold, Platinum (PT950)"
+    ],
+    "gemstones": "Total 4.50 Carats Round Brilliant Cut Diamonds (F Color, VVS2-VS1 Clarity)",
+    "packaging": "10-12 Business Days",
+    "price": "FOB $3,500 - $3,950",
+    "active": true
+  },
+  {
+    "id": "halo-cushion-ring",
+    "title": "Halo Cushion Cut Diamond Ring",
+    "category": "Rings",
+    "description": "A striking cushion-cut diamond surrounded by a brilliant halo of pavé-set diamonds on a delicate band. A romantic design that accentuates the soft curves and deep fire of the center stone.",
+    "images": [
+      "/images/hero-diamond-ring.png"
+    ],
+    "moq": 3,
+    "alloys": [
+      "14k / 18k Yellow Gold, White Gold, Rose Gold, Platinum (PT950)"
+    ],
+    "gemstones": "1.50 Carat Cushion Cut Center Diamond with 0.35 Carat Pavé Border",
+    "packaging": "10-12 Business Days",
+    "price": "FOB $2,100 - $2,450",
+    "active": true
+  },
+  {
+    "id": "modernist-gold-choker",
+    "title": "Modernist Gold Link Choker",
+    "category": "Necklaces",
+    "description": "A bold contemporary piece featuring flat-profile interlinked geometric gold components. Exudes understated luxury and fits perfectly along the neckline for a smooth, high-fashion statement.",
+    "images": [
+      "/images/necklaces-category.png"
+    ],
+    "moq": 5,
+    "alloys": [
+      "14k / 18k Yellow Gold, White Gold, Rose Gold, Platinum (PT950)"
+    ],
+    "gemstones": "None (Solid High-Polished Metal Craftsmanship)",
+    "packaging": "10-12 Business Days",
+    "price": "FOB $1,200 - $1,400",
+    "active": true
+  }
+]
