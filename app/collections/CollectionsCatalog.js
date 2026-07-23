@@ -34,17 +34,17 @@ export default function CollectionsCatalog({ products }) {
   };
 
   return (
-    <div className="flex flex-col space-y-8 sm:space-y-12">
+    <div className="flex flex-col space-y-8 sm:space-y-12 w-full max-w-full">
       {/* Category Tabs - Mobile Scrollable & Touch Optimized */}
-      <div className="w-full flex justify-start sm:justify-center border-b border-brand-charcoal/10 pb-3 sm:pb-4 overflow-x-auto scrollbar-none">
-        <div className="flex space-x-2.5 sm:space-x-8 px-2 sm:px-4 whitespace-nowrap">
+      <div className="w-full max-w-full border-b border-brand-charcoal/10 pb-3 sm:pb-4 overflow-x-auto scrollbar-none">
+        <div className="flex space-x-2 sm:space-x-4 px-1 whitespace-nowrap min-w-max">
           {categories.map((cat) => {
             const isSelected = activeCategory.toLowerCase() === cat.toLowerCase();
             return (
               <button
                 key={cat}
                 onClick={() => handleCategoryChange(cat)}
-                className={`text-[11px] sm:text-xs uppercase tracking-[0.2em] px-4 py-2 sm:px-5 sm:py-2.5 rounded-full transition-all duration-300 relative cursor-pointer font-bold ${
+                className={`text-[10px] sm:text-xs uppercase tracking-[0.18em] px-3.5 py-2 sm:px-5 sm:py-2.5 rounded-full transition-all duration-300 relative cursor-pointer font-bold ${
                   isSelected
                     ? 'bg-brand-charcoal text-white shadow-md'
                     : 'text-brand-slate hover:text-brand-charcoal hover:bg-brand-sand/60'

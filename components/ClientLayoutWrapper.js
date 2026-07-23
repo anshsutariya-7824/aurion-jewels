@@ -10,9 +10,9 @@ export default function ClientLayoutWrapper({ children }) {
   const isAdmin = pathname?.startsWith('/admin');
 
   return (
-    <div className={`min-h-screen flex flex-col ${isAdmin ? '' : 'pt-24'}`}>
+    <div className="min-h-screen flex flex-col w-full max-w-full overflow-x-hidden">
       {!isAdmin && <Header />}
-      <main className="flex-grow flex flex-col">
+      <main className={`flex-grow flex flex-col w-full max-w-full overflow-x-hidden ${isAdmin ? '' : 'pt-20 sm:pt-24'}`}>
         {children}
       </main>
       {!isAdmin && <Footer />}

@@ -27,7 +27,7 @@ export default async function DiamondDetailsPage({ params }) {
   const whatsappNumber = settings.whatsappNumber || '+15550199';
 
   return (
-    <div className="max-w-7xl mx-auto px-6 py-16">
+    <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-4 pb-16 sm:pt-6 sm:pb-24">
       <DiamondDetailsClient diamond={diamond} whatsappNumber={whatsappNumber} />
     </div>
   );
